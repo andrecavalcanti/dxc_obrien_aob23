@@ -1,0 +1,23 @@
+{
+  "id": "7f3cf1ad-270f-4f65-bb67-2cf3c14e3cca",
+  "name": "DXC Shipping Cosmo Text",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  }
+}
